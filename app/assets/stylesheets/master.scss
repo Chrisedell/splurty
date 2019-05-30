@@ -11,8 +11,8 @@
   font-style: italic;
   position: relative;
   border-radius: 100%;
-  background: #F7F7F7;
-  border: 1px solid #F7F7F7;
+  background: #d3351d;
+  border: 1px solid #d3351d;
   width: 80px;
   height: 80px;
   margin: 10px 10px;
@@ -56,4 +56,9 @@ h1 {
 
 h2 {
   font-family: 'Cinzel', serif;
+}
+
+.next-quote {
+  color: #f84342;
+  font-family: 'alex_brushregular';
 }
